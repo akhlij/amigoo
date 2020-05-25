@@ -1,4 +1,5 @@
-[
+{
+  "activities" [
   {
     "id": "1",
     "name": "الدورة التكوينية",
@@ -19,4 +20,5 @@
     "name": "من أجل عالم أفضل",
     "image": "https://scout-ps.net/uploads/files/4337/3128b0a2972fd3c2f6380171742719c4.png"
   }
-]
+ ]
+}
